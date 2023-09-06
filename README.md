@@ -16,7 +16,8 @@
       <br /> 
       <br />
       <a  href="https://www.codefactor.io/repository/github/FantoX/z-anime"><img width="130px" src="https://www.codefactor.io/repository/github/FantoX/z-anime/badge" alt="CodeFactor" /></a> <br /> <br />
-    <a href="https://www.buymeacoffee.com/FantoX"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=FantoX&button_colour=ff0059&font_colour=FFFFFF&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+    <a href="https://www.npmjs.com/package/z-anime"><img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="140px"> </a> <br /> <br />
+        <a href="https://www.buymeacoffee.com/FantoX"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=FantoX&button_colour=ff0059&font_colour=FFFFFF&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 
   </p>
