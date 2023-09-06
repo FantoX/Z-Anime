@@ -6,7 +6,7 @@
   <h1 align="center">Z-Anime</h1>
 
   <p align="center">
-    <h3>An unoffitial <a href="https://sanji.to">Zoro.to </a>scraper NPM package </h3>
+    <h3>An unoffitial <a href="https://aniwatch.to">Zoro.to / Sanji.to / Aniwatch.to </a>scraper NPM package </h3>
     <a href="#get-trending-anime-list">View Code Example</a>
     ·
     <a href="https://github.com/FantoX/Z-Anime/issues">Report a Bug</a>
